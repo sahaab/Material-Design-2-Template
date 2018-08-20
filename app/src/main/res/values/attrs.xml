@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProductSansTextView">
+        <attr name="product_sans">
+            <enum value="1" name="regular"/>
+            <enum value="2" name="bold"/>
+            <enum value="3" name="italic"/>
+            <enum value="4" name="bold_italic"/>
+        </attr>
+    </declare-styleable>
+</resources>
